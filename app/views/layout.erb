@@ -5,28 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
+
     <link rel="shortcut icon" href="../../public/ico/favicon.png">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link href="css/bootstrap.css" rel="stylesheet">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 
-    <!-- Bootstrap core CSS -->
-    <link href="../../public/css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
+    <title>iTunes Library Stats</title>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
           <script src="../../public/js/html5shiv.js"></script>
           <script src="../../public/js/respond.min.js"></script>
           <![endif]-->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="../../public/js/bootstrap.min.js"></script>
   </head>
 
   <body>
+
     <%= erb :header_partial %>
-    <%= yield %>
+
+    <div class="jumbotron">
+      <div class="container">
+        <%= erb :introduction %>
+      </div>
+    </div>
+
+    <div class="container">
+      <%= erb :flash_notice %>
+      <%= yield %>
+
+      <hr>
+      <%= erb :footer_partial %>
+
+    </div
+
   </body>
 </html>

@@ -1,0 +1,11 @@
+<% if flash[:success] %>
+  <div class="alert alert-success">
+    <%= flash[:success] %>
+    <a class="close" data-dismiss="alert" href="#" aria-hidden="true">&times;</a>
+  </div>
+<% elsif flash[:danger] %>
+  <div class="alert alert-danger">
+    <%= flash[:danger] %>
+    <a class="close" data-dismiss="alert" href="#" aria-hidden="true">&times;</a>
+  </div>
+<% end %>

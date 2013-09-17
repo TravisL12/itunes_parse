@@ -4923,6 +4923,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
+  background:url('../images/itunes_logo.png') no-repeat center 55px;
   background-color: #eeeeee;
 }
 

@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 # PostgreSQL driver
 gem 'pg'
@@ -12,10 +12,12 @@ gem 'thin'
 
 gem 'activesupport'
 gem 'activerecord'
-
+gem 'debugger'
 gem 'rake'
+gem 'sinatra-flash'
 
 gem 'shotgun'
+gem 'xml-simple'
 
 group :test do
   gem 'faker'

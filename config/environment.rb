@@ -10,13 +10,14 @@ require 'rubygems'
 
 require 'uri'
 require 'pathname'
-
+require 'xmlsimple'
 require 'pg'
 require 'active_record'
 require 'logger'
 
 require 'sinatra'
 require "sinatra/reloader" if development?
+require 'sinatra/flash'
 
 require 'erb'
 
