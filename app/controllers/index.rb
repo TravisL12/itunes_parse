@@ -4,7 +4,10 @@ end
 
 post '/upload' do
 
-  params_file = params[:demo] ? demo : params[:itunes_file]
+  p params
+
+  params_file = params[:demo] ? (redirect '/demo') : params[:itunes_file]
+
   if params_file[:type] == "text/xml"
     @all_songs = parse_songs(params_file[:tempfile])
     erb :itunes_stats
@@ -14,3 +17,7 @@ post '/upload' do
   end
 end
 
+get '/demo' do
+  @all_songs = parse_songs('itunes_xml/itunes_demo.xml')
+  erb :itunes_stats
+end
