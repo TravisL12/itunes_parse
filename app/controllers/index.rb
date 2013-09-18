@@ -4,8 +4,6 @@ end
 
 post '/upload' do
 
-  p params
-
   params_file = params[:demo] ? (redirect '/demo') : params[:itunes_file]
 
   if params_file[:type] == "text/xml"

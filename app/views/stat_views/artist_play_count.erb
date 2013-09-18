@@ -5,7 +5,7 @@
       <td><strong>Artist</td>
       <td><strong>Song Plays</td>
     </tr>
-    <% Counter.artist_play_count(@all_songs).each do |artist,plays| %>
+    <% Counter.artist_play_count(@all_songs).first(50).each do |artist,plays| %>
     <td class="text-success"><%= artist %></td>
     <td class="text-success"><%= plays %></td>
   </tr>

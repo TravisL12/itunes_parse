@@ -5,7 +5,7 @@
       <td><strong>Artist</td>
       <td><strong>Songs in Library</td>
     </tr>
-    <% Counter.artist_count(@all_songs).each do |artist,song_ct| %>
+    <% Counter.artist_count(@all_songs).first(50).each do |artist,song_ct| %>
     <td class="text-primary"><%= artist %></td>
     <td class="text-primary"><%= song_ct %></td>
   </tr>
