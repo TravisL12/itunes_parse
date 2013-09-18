@@ -1,5 +1,14 @@
 <div class="col-lg-4">
-  <h2>Songs by Artists</h2>
-  <p>You should see a table with all the artists in your library and a count of tracks for each.</p>
-  <p><%= @all_songs %></p>
+  <h2>Number of Songs per Artist</h2>
+  <table class='table table-hover'>
+    <tr>
+      <td><strong>Artist</td>
+      <td><strong>Songs in Library</td>
+    </tr>
+    <% Counter.artist_count(@all_songs).each do |artist,song_ct| %>
+    <td class="text-primary"><%= artist %></td>
+    <td class="text-primary"><%= song_ct %></td>
+  </tr>
+  <% end %>
+</table>
 </div>

@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Major Version</key><integer>1</integer>
+		<key>Minor Version</key><integer>1</integer>
+		<key>Date</key><date>2013-09-15T19:07:59Z</date>
+		<key>Application Version</key><string>11.0.5</string>
+		<key>Features</key><integer>5</integer>
+		<key>Show Content Ratings</key><true/>
+		<key>Music Folder</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/</string>
+		<key>Library Persistent ID</key><string>8D5886E8EA4BC069</string>
+		<key>Tracks</key>
+		<dict>
+			<key>2191</key>
+			<dict>
+				<key>Track ID</key><integer>2191</integer>
+				<key>Name</key><string>16 Military Wives</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4803717</integer>
+				<key>Total Time</key><integer>292686</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>7</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:07Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>16 Military Wives</string>
+				<key>Persistent ID</key><string>F52751ED4A05D65B</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/07%2016%20Military%20Wives.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2193</key>
+			<dict>
+				<key>Track ID</key><integer>2193</integer>
+				<key>Name</key><string>From My Own True Love (Lost at Sea)</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3799463</integer>
+				<key>Total Time</key><integer>222190</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>6</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:06Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>From My Own True Love (Lost at Sea)</string>
+				<key>Persistent ID</key><string>A03D992FAAF3A387</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/06%20From%20My%20Own%20True%20Love%20(Lost%20at%20Sea).m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2195</key>
+			<dict>
+				<key>Track ID</key><integer>2195</integer>
+				<key>Name</key><string>The Bagman's Gambit</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>7054999</integer>
+				<key>Total Time</key><integer>422462</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>5</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:06Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>1</integer>
+				<key>Play Date</key><integer>3445830148</integer>
+				<key>Play Date UTC</key><date>2013-03-11T14:02:28Z</date>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Bagman's Gambit</string>
+				<key>Persistent ID</key><string>DE932556E05C5262</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/05%20The%20Bagman's%20Gambit.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2197</key>
+			<dict>
+				<key>Track ID</key><integer>2197</integer>
+				<key>Name</key><string>The Sporting Life</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4714869</integer>
+				<key>Total Time</key><integer>278498</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>4</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:06Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Sporting Life</string>
+				<key>Persistent ID</key><string>01AB6BC6D0559AE5</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/04%20The%20Sporting%20Life.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2199</key>
+			<dict>
+				<key>Track ID</key><integer>2199</integer>
+				<key>Name</key><string>Grounds for Divorce</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3542867</integer>
+				<key>Total Time</key><integer>204961</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>3</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:49Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>1</integer>
+				<key>Play Date</key><integer>3442571637</integer>
+				<key>Play Date UTC</key><date>2013-02-01T20:53:57Z</date>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>Grounds for Divorce</string>
+				<key>Persistent ID</key><string>2BD229872B791E29</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/03%20Grounds%20for%20Divorce.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2201</key>
+			<dict>
+				<key>Track ID</key><integer>2201</integer>
+				<key>Name</key><string>Eli, the Barrow Boy</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3300375</integer>
+				<key>Total Time</key><integer>191423</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>3</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:05Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>1</integer>
+				<key>Play Date</key><integer>3445831108</integer>
+				<key>Play Date UTC</key><date>2013-03-11T14:18:28Z</date>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Eli, the Barrow Boy</string>
+				<key>Persistent ID</key><string>8EDDB2AC941775E2</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/03%20Eli,%20the%20Barrow%20Boy.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2203</key>
+			<dict>
+				<key>Track ID</key><integer>2203</integer>
+				<key>Name</key><string>It Kills</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>5041425</integer>
+				<key>Total Time</key><integer>279381</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>2</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:13Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:15Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>It Kills</string>
+				<key>Persistent ID</key><string>01A7167879EBCEB1</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/02%20It%20Kills.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2205</key>
+			<dict>
+				<key>Track ID</key><integer>2205</integer>
+				<key>Name</key><string>You're the Reason I'm Leaving</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>6005235</integer>
+				<key>Total Time</key><integer>167133</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>6</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>79</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:18Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:02Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>You're the Reason I'm Leaving</string>
+				<key>Persistent ID</key><string>6D1C53BD2A90B82A</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/06%20You're%20the%20Reason%20I'm%20Leaving.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2207</key>
+			<dict>
+				<key>Track ID</key><integer>2207</integer>
+				<key>Name</key><string>We Both Go Down Together</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3184652</integer>
+				<key>Total Time</key><integer>184295</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>2</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:05Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:26Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>1</integer>
+				<key>Play Date</key><integer>3445830917</integer>
+				<key>Play Date UTC</key><date>2013-03-11T14:15:17Z</date>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>We Both Go Down Together</string>
+				<key>Persistent ID</key><string>78C6BCC6278CFEFD</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/02%20We%20Both%20Go%20Down%20Together.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2209</key>
+			<dict>
+				<key>Track ID</key><integer>2209</integer>
+				<key>Name</key><string>The Infanta</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>5193071</integer>
+				<key>Total Time</key><integer>307918</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>1</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:04Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Infanta</string>
+				<key>Persistent ID</key><string>0743BBB9CCA35319</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/01%20The%20Infanta.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2211</key>
+			<dict>
+				<key>Track ID</key><integer>2211</integer>
+				<key>Name</key><string>Mama</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3595101</integer>
+				<key>Total Time</key><integer>191818</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>7</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:15Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:16Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>Mama</string>
+				<key>Persistent ID</key><string>5D1E44613497DF4C</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/07%20Mama.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2213</key>
+			<dict>
+				<key>Track ID</key><integer>2213</integer>
+				<key>Name</key><string>Of Angels and Angles</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2584584</integer>
+				<key>Total Time</key><integer>147631</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>11</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:08Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Of Angels and Angles</string>
+				<key>Persistent ID</key><string>E591AA059207EC0A</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/11%20Of%20Angels%20and%20Angles.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2215</key>
+			<dict>
+				<key>Track ID</key><integer>2215</integer>
+				<key>Name</key><string>Modern World</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2983164</integer>
+				<key>Total Time</key><integer>172220</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>2</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:48Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>Modern World</string>
+				<key>Persistent ID</key><string>A06B0B257262B1D4</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/02%20Modern%20World.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2217</key>
+			<dict>
+				<key>Track ID</key><integer>2217</integer>
+				<key>Name</key><string>To Go Home</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3863541</integer>
+				<key>Total Time</key><integer>231431</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>2</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:37Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:44Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>2</integer>
+				<key>Play Date</key><integer>3455009196</integer>
+				<key>Play Date UTC</key><date>2013-06-25T19:46:36Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>To Go Home</string>
+				<key>Persistent ID</key><string>2BF16D7627F01CED</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/02%20To%20Go%20Home.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2219</key>
+			<dict>
+				<key>Track ID</key><integer>2219</integer>
+				<key>Name</key><string>The Mariner's Revenge Song</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8693562</integer>
+				<key>Total Time</key><integer>525953</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>10</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:08Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>1</integer>
+				<key>Play Date</key><integer>3445830707</integer>
+				<key>Play Date UTC</key><date>2013-03-11T14:11:47Z</date>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Mariner's Revenge Song</string>
+				<key>Persistent ID</key><string>3CD6846D9F123755</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/10%20The%20Mariner's%20Revenge%20Song.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2221</key>
+			<dict>
+				<key>Track ID</key><integer>2221</integer>
+				<key>Name</key><string>You Are a Runner and I Am My Father's Son</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3054521</integer>
+				<key>Total Time</key><integer>174914</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>1</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:48Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>You Are a Runner and I Am My Father's Son</string>
+				<key>Persistent ID</key><string>DA3FDD9E08026CE6</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/01%20You%20Are%20a%20Runner%20and%20I%20Am%20My%20Father's%20Son.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2223</key>
+			<dict>
+				<key>Track ID</key><integer>2223</integer>
+				<key>Name</key><string>Baby C'mon</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3165955</integer>
+				<key>Total Time</key><integer>164697</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>10</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:16Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:15Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>Baby C'mon</string>
+				<key>Persistent ID</key><string>8D32DBEC47E9F518</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/10%20Baby%20C'mon.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2225</key>
+			<dict>
+				<key>Track ID</key><integer>2225</integer>
+				<key>Name</key><string>On the Bus Mall</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>6111187</integer>
+				<key>Total Time</key><integer>364412</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>9</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:08Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>On the Bus Mall</string>
+				<key>Persistent ID</key><string>6A438C85BB891165</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/09%20On%20the%20Bus%20Mall.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2227</key>
+			<dict>
+				<key>Track ID</key><integer>2227</integer>
+				<key>Name</key><string>The Engine Driver</string>
+				<key>Artist</key><string>The Decemberists</string>
+				<key>Album Artist</key><string>The Decemberists</string>
+				<key>Album</key><string>Picaresque</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4290293</integer>
+				<key>Total Time</key><integer>255209</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>8</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:07Z</date>
+				<key>Date Added</key><date>2013-01-10T01:58:25Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-03-11T14:02:58Z</date>
+				<key>Release Date</key><date>2005-03-22T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Picaresque</string>
+				<key>Sort Album Artist</key><string>Decemberists</string>
+				<key>Sort Artist</key><string>Decemberists</string>
+				<key>Sort Name</key><string>Engine Driver</string>
+				<key>Persistent ID</key><string>216729700ACD3E4E</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/The%20Decemberists/Picaresque/08%20The%20Engine%20Driver.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2229</key>
+			<dict>
+				<key>Track ID</key><integer>2229</integer>
+				<key>Name</key><string>Gimmie Some Salt</string>
+				<key>Artist</key><string>Clap Your Hands Say Yeah!</string>
+				<key>Album Artist</key><string>Clap Your Hands Say Yeah!</string>
+				<key>Album</key><string>Clap Your Hands Say Yeah</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>6952441</integer>
+				<key>Total Time</key><integer>183346</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>11</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>101</integer>
+				<key>Date Modified</key><date>2013-04-13T18:04:55Z</date>
+				<key>Date Added</key><date>2013-01-10T02:04:45Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-11-01T08:00:00Z</date>
+				<key>Artwork Count</key><integer>2</integer>
+				<key>Sort Album</key><string>Clap Your Hands Say Yeah</string>
+				<key>Sort Artist</key><string>Clap Your Hands Say Yeah</string>
+				<key>Sort Name</key><string>Gimmie Some Salt</string>
+				<key>Persistent ID</key><string>51B6F697C8E35751</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Clap%20Your%20Hands%20Say%20Yeah!/Clap%20Your%20Hands%20Say%20Yeah/11%20Gimmie%20Some%20Salt.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2231</key>
+			<dict>
+				<key>Track ID</key><integer>2231</integer>
+				<key>Name</key><string>Evil and a Heathen</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4627610</integer>
+				<key>Total Time</key><integer>125666</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>5</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>99</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:17Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:02Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>Evil and a Heathen</string>
+				<key>Persistent ID</key><string>06F6A974CE50003F</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/05%20Evil%20and%20a%20Heathen.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2233</key>
+			<dict>
+				<key>Track ID</key><integer>2233</integer>
+				<key>Name</key><string>That's What You Get</string>
+				<key>Artist</key><string>Taylor Loftin</string>
+				<key>Album Artist</key><string>Taylor Loftin</string>
+				<key>Composer</key><string>Paramore</string>
+				<key>Album</key><string>Swingset - EP</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8781848</integer>
+				<key>Total Time</key><integer>255293</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>2</integer>
+				<key>Track Count</key><integer>6</integer>
+				<key>Year</key><integer>2008</integer>
+				<key>Date Modified</key><date>2010-04-16T05:57:20Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:30Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-07-03T20:27:43Z</date>
+				<key>Release Date</key><date>2008-04-08T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Swingset - EP</string>
+				<key>Sort Artist</key><string>Taylor Loftin</string>
+				<key>Sort Name</key><string>That's What You Get</string>
+				<key>Persistent ID</key><string>5B6AA67808AB3482</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Taylor%20Loftin/Swingset%20-%20EP/02%20That's%20What%20You%20Get.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2235</key>
+			<dict>
+				<key>Track ID</key><integer>2235</integer>
+				<key>Name</key><string>Misery Business</string>
+				<key>Artist</key><string>Taylor Loftin</string>
+				<key>Album Artist</key><string>Taylor Loftin</string>
+				<key>Composer</key><string>Paramore</string>
+				<key>Album</key><string>Swingset - EP</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8644042</integer>
+				<key>Total Time</key><integer>251040</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>1</integer>
+				<key>Track Count</key><integer>6</integer>
+				<key>Year</key><integer>2008</integer>
+				<key>Date Modified</key><date>2010-04-16T05:19:29Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:30Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-07-30T20:21:32Z</date>
+				<key>Release Date</key><date>2008-04-08T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Swingset - EP</string>
+				<key>Sort Artist</key><string>Taylor Loftin</string>
+				<key>Sort Name</key><string>Misery Business</string>
+				<key>Persistent ID</key><string>432B4DB0C493E884</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Taylor%20Loftin/Swingset%20-%20EP/01%20Misery%20Business.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2237</key>
+			<dict>
+				<key>Track ID</key><integer>2237</integer>
+				<key>Name</key><string>Hey There Delilah</string>
+				<key>Artist</key><string>Taylor Loftin</string>
+				<key>Album Artist</key><string>Taylor Loftin</string>
+				<key>Composer</key><string>Plain White T's</string>
+				<key>Album</key><string>Swingset - EP</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>6822006</integer>
+				<key>Total Time</key><integer>194400</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>4</integer>
+				<key>Track Count</key><integer>6</integer>
+				<key>Year</key><integer>2008</integer>
+				<key>Date Modified</key><date>2011-07-30T02:18:39Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:29Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2008-04-08T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Swingset - EP</string>
+				<key>Sort Artist</key><string>Taylor Loftin</string>
+				<key>Sort Name</key><string>Hey There Delilah</string>
+				<key>Persistent ID</key><string>409291B90429F68C</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Taylor%20Loftin/Swingset%20-%20EP/04%20Hey%20There%20Delilah.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2239</key>
+			<dict>
+				<key>Track ID</key><integer>2239</integer>
+				<key>Name</key><string>Nine In the Afternoon</string>
+				<key>Artist</key><string>Taylor Loftin</string>
+				<key>Album Artist</key><string>Taylor Loftin</string>
+				<key>Composer</key><string>Panic At the Disco</string>
+				<key>Album</key><string>Swingset - EP</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>6396392</integer>
+				<key>Total Time</key><integer>181213</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>3</integer>
+				<key>Track Count</key><integer>6</integer>
+				<key>Year</key><integer>2008</integer>
+				<key>BPM</key><integer>75</integer>
+				<key>Date Modified</key><date>2013-06-15T17:45:02Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:29Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2008-04-08T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Swingset - EP</string>
+				<key>Sort Artist</key><string>Taylor Loftin</string>
+				<key>Sort Name</key><string>Nine In the Afternoon</string>
+				<key>Persistent ID</key><string>C0AA453687E02D74</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Taylor%20Loftin/Swingset%20-%20EP/03%20Nine%20In%20the%20Afternoon.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2241</key>
+			<dict>
+				<key>Track ID</key><integer>2241</integer>
+				<key>Name</key><string>Upon This Tidal Wave of Young Blood</string>
+				<key>Artist</key><string>Clap Your Hands Say Yeah!</string>
+				<key>Album Artist</key><string>Clap Your Hands Say Yeah!</string>
+				<key>Album</key><string>Clap Your Hands Say Yeah</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>9885193</integer>
+				<key>Total Time</key><integer>274466</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>12</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>81</integer>
+				<key>Date Modified</key><date>2013-04-13T18:04:56Z</date>
+				<key>Date Added</key><date>2013-01-10T02:04:45Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-11-01T08:00:00Z</date>
+				<key>Artwork Count</key><integer>2</integer>
+				<key>Sort Album</key><string>Clap Your Hands Say Yeah</string>
+				<key>Sort Artist</key><string>Clap Your Hands Say Yeah</string>
+				<key>Sort Name</key><string>Upon This Tidal Wave of Young Blood</string>
+				<key>Persistent ID</key><string>C21EC0C89BC5BEA7</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Clap%20Your%20Hands%20Say%20Yeah!/Clap%20Your%20Hands%20Say%20Yeah/12%20Upon%20This%20Tidal%20Wave%20of%20Young%20Blood.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2243</key>
+			<dict>
+				<key>Track ID</key><integer>2243</integer>
+				<key>Name</key><string>Hayley Save Me</string>
+				<key>Artist</key><string>Taylor Loftin</string>
+				<key>Album Artist</key><string>Taylor Loftin</string>
+				<key>Composer</key><string>Taylor Loftin</string>
+				<key>Album</key><string>Swingset - EP</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>5967304</integer>
+				<key>Total Time</key><integer>167866</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>6</integer>
+				<key>Track Count</key><integer>6</integer>
+				<key>Year</key><integer>2008</integer>
+				<key>Date Modified</key><date>2011-07-30T02:18:39Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:30Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-07-04T00:03:31Z</date>
+				<key>Release Date</key><date>2008-04-08T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Swingset - EP</string>
+				<key>Sort Artist</key><string>Taylor Loftin</string>
+				<key>Sort Name</key><string>Hayley Save Me</string>
+				<key>Persistent ID</key><string>EB7F6EA35077E97B</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Taylor%20Loftin/Swingset%20-%20EP/06%20Hayley%20Save%20Me.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2245</key>
+			<dict>
+				<key>Track ID</key><integer>2245</integer>
+				<key>Name</key><string>The Great Escape</string>
+				<key>Artist</key><string>Taylor Loftin</string>
+				<key>Album Artist</key><string>Taylor Loftin</string>
+				<key>Composer</key><string>Boys Like Girls</string>
+				<key>Album</key><string>Swingset - EP</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>7120452</integer>
+				<key>Total Time</key><integer>203666</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>5</integer>
+				<key>Track Count</key><integer>6</integer>
+				<key>Year</key><integer>2008</integer>
+				<key>Date Modified</key><date>2010-04-16T05:00:12Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:29Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2008-04-08T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Swingset - EP</string>
+				<key>Sort Artist</key><string>Taylor Loftin</string>
+				<key>Sort Name</key><string>Great Escape</string>
+				<key>Persistent ID</key><string>C31059C904E1E9CF</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Taylor%20Loftin/Swingset%20-%20EP/05%20The%20Great%20Escape.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2247</key>
+			<dict>
+				<key>Track ID</key><integer>2247</integer>
+				<key>Name</key><string>You Could Have It So Much Better</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>5783811</integer>
+				<key>Total Time</key><integer>161506</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>11</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>80</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:19Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:01Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>You Could Have It So Much Better</string>
+				<key>Persistent ID</key><string>7B99A29ABD418089</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/11%20You%20Could%20Have%20It%20So%20Much%20Better.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2249</key>
+			<dict>
+				<key>Track ID</key><integer>2249</integer>
+				<key>Name</key><string>I'm Your Villian</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8513274</integer>
+				<key>Total Time</key><integer>243693</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>10</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>119</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:18Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:02Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>I'm Your Villian</string>
+				<key>Persistent ID</key><string>4CC0D1D235BBA02D</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/10%20I'm%20Your%20Villian.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2251</key>
+			<dict>
+				<key>Track ID</key><integer>2251</integer>
+				<key>Name</key><string>Chinese Translation</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4017790</integer>
+				<key>Total Time</key><integer>238583</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>6</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:38Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:43Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>2</integer>
+				<key>Play Date</key><integer>3455010150</integer>
+				<key>Play Date UTC</key><date>2013-06-25T20:02:30Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Chinese Translation</string>
+				<key>Persistent ID</key><string>E43134928C113D54</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/06%20Chinese%20Translation.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2253</key>
+			<dict>
+				<key>Track ID</key><integer>2253</integer>
+				<key>Name</key><string>Kindling for the Master</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3762432</integer>
+				<key>Total Time</key><integer>200781</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>8</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:16Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:15Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>Kindling for the Master</string>
+				<key>Persistent ID</key><string>86FAC7CEDD42FD70</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/08%20Kindling%20for%20the%20Master.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2255</key>
+			<dict>
+				<key>Track ID</key><integer>2255</integer>
+				<key>Name</key><string>We Built Another World</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3087798</integer>
+				<key>Total Time</key><integer>195046</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>4</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:49Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>We Built Another World</string>
+				<key>Persistent ID</key><string>6949FACD7018D919</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/04%20We%20Built%20Another%20World.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2257</key>
+			<dict>
+				<key>Track ID</key><integer>2257</integer>
+				<key>Name</key><string>Magic Trick</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>1810518</integer>
+				<key>Total Time</key><integer>102955</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>8</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:39Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:43Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>4</integer>
+				<key>Play Date</key><integer>3455702056</integer>
+				<key>Play Date UTC</key><date>2013-07-03T20:14:16Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Magic Trick</string>
+				<key>Persistent ID</key><string>F07DDDB60CC0715E</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/08%20Magic%20Trick.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2259</key>
+			<dict>
+				<key>Track ID</key><integer>2259</integer>
+				<key>Name</key><string>What You Meant</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>7264735</integer>
+				<key>Total Time</key><integer>204706</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>9</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:18Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:02Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>What You Meant</string>
+				<key>Persistent ID</key><string>F14D91A8DFA829B8</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/09%20What%20You%20Meant.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2261</key>
+			<dict>
+				<key>Track ID</key><integer>2261</integer>
+				<key>Name</key><string>Well That Was Easy</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>6456577</integer>
+				<key>Total Time</key><integer>182493</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>8</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>107</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:18Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:02Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>Well That Was Easy</string>
+				<key>Persistent ID</key><string>11486ACCF4C563EC</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/08%20Well%20That%20Was%20Easy.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2263</key>
+			<dict>
+				<key>Track ID</key><integer>2263</integer>
+				<key>Name</key><string>Eyes On the Prize</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2654268</integer>
+				<key>Total Time</key><integer>157220</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>7</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:39Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:44Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>3</integer>
+				<key>Play Date</key><integer>3455701952</integer>
+				<key>Play Date UTC</key><date>2013-07-03T20:12:32Z</date>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-02-26T00:07:09Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Eyes On the Prize</string>
+				<key>Persistent ID</key><string>9EAFABC90635E089</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/07%20Eyes%20On%20the%20Prize.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2265</key>
+			<dict>
+				<key>Track ID</key><integer>2265</integer>
+				<key>Name</key><string>Good Morning Little Schoolgirl</string>
+				<key>Artist</key><string>Jonny Lang</string>
+				<key>Album Artist</key><string>Jonny Lang</string>
+				<key>Album</key><string>Lie to Me</string>
+				<key>Genre</key><string>Blues</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8675781</integer>
+				<key>Total Time</key><integer>254933</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>3</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>1997</integer>
+				<key>Date Modified</key><date>2013-05-06T14:20:23Z</date>
+				<key>Date Added</key><date>2013-01-10T02:12:42Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>1997-01-28T08:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Lie to Me</string>
+				<key>Sort Artist</key><string>Jonny Lang</string>
+				<key>Sort Name</key><string>Good Morning Little Schoolgirl</string>
+				<key>Persistent ID</key><string>514376070FAE9881</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Jonny%20Lang/Lie%20to%20Me/03%20Good%20Morning%20Little%20Schoolgirl.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2267</key>
+			<dict>
+				<key>Track ID</key><integer>2267</integer>
+				<key>Name</key><string>Malediction</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3261444</integer>
+				<key>Total Time</key><integer>170409</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>11</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:17Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:16Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>Malediction</string>
+				<key>Persistent ID</key><string>9E5FDAEEA6A38B22</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/11%20Malediction.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2269</key>
+			<dict>
+				<key>Track ID</key><integer>2269</integer>
+				<key>Name</key><string>Eleanor Put Your Boots On</string>
+				<key>Artist</key><string>Franz Ferdinand</string>
+				<key>Album Artist</key><string>Franz Ferdinand</string>
+				<key>Album</key><string>You Could Have It So Much Better</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Pop</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>5947664</integer>
+				<key>Total Time</key><integer>169933</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>7</integer>
+				<key>Track Count</key><integer>13</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>157</integer>
+				<key>Date Modified</key><date>2013-04-13T18:06:18Z</date>
+				<key>Date Added</key><date>2013-01-10T02:02:02Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-10-04T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>You Could Have It So Much Better</string>
+				<key>Sort Artist</key><string>Franz Ferdinand</string>
+				<key>Sort Name</key><string>Eleanor Put Your Boots On</string>
+				<key>Persistent ID</key><string>DE8E7BB1C2105AC8</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Franz%20Ferdinand/You%20Could%20Have%20It%20So%20Much%20Better/07%20Eleanor%20Put%20Your%20Boots%20On.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2271</key>
+			<dict>
+				<key>Track ID</key><integer>2271</integer>
+				<key>Name</key><string>Pencil Rot</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4533891</integer>
+				<key>Total Time</key><integer>247964</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>1</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:12Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:15Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>Pencil Rot</string>
+				<key>Persistent ID</key><string>1B1AD1D1B3FEC3C9</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/01%20Pencil%20Rot.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2273</key>
+			<dict>
+				<key>Track ID</key><integer>2273</integer>
+				<key>Name</key><string>Modern World (Original)</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2891585</integer>
+				<key>Total Time</key><integer>166741</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>14</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:53Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>2</integer>
+				<key>Skip Date</key><date>2013-06-24T02:17:36Z</date>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>Modern World (Original)</string>
+				<key>Persistent ID</key><string>1D35DFAFCB9DD1C8</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/14%20Modern%20World%20(Original).m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2275</key>
+			<dict>
+				<key>Track ID</key><integer>2275</integer>
+				<key>Name</key><string>Right in the Head</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4206700</integer>
+				<key>Total Time</key><integer>252445</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>3</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:37Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:43Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>2</integer>
+				<key>Play Date</key><integer>3455009448</integer>
+				<key>Play Date UTC</key><date>2013-06-25T19:50:48Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Right in the Head</string>
+				<key>Persistent ID</key><string>D52D8117A2153145</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/03%20Right%20in%20the%20Head.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2277</key>
+			<dict>
+				<key>Track ID</key><integer>2277</integer>
+				<key>Name</key><string>Neptune's Net</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2172328</integer>
+				<key>Total Time</key><integer>126059</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>9</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:39Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:44Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>3</integer>
+				<key>Play Date</key><integer>3455010536</integer>
+				<key>Play Date UTC</key><date>2013-06-25T20:08:56Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Neptune's Net</string>
+				<key>Persistent ID</key><string>127CEEFA42C5F422</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/09%20Neptune's%20Net.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2279</key>
+			<dict>
+				<key>Track ID</key><integer>2279</integer>
+				<key>Name</key><string>Killing Armies</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2987736</integer>
+				<key>Total Time</key><integer>172662</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>13</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:53Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>Killing Armies</string>
+				<key>Persistent ID</key><string>EDF051A4C1B19AF3</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/13%20Killing%20Armies.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2281</key>
+			<dict>
+				<key>Track ID</key><integer>2281</integer>
+				<key>Name</key><string>This Heart's On Fire</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4057764</integer>
+				<key>Total Time</key><integer>239465</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>12</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:52Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-01-22T00:51:57Z</date>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>This Heart's On Fire</string>
+				<key>Persistent ID</key><string>6EC57D0E895D897F</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/12%20This%20Heart's%20On%20Fire.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2283</key>
+			<dict>
+				<key>Track ID</key><integer>2283</integer>
+				<key>Name</key><string>Dear John</string>
+				<key>Artist</key><string>Ryan Adams</string>
+				<key>Album Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Composer</key><string>Norah Jones</string>
+				<key>Album</key><string>Jacksonville City Nights</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>9565759</integer>
+				<key>Total Time</key><integer>275266</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>4</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>100</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:08Z</date>
+				<key>Date Added</key><date>2013-01-10T02:01:10Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-08-19T14:29:51Z</date>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>2</integer>
+				<key>Sort Album</key><string>Jacksonville City Nights</string>
+				<key>Sort Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Sort Name</key><string>Dear John</string>
+				<key>Persistent ID</key><string>D60B1565C5378B7C</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Ryan%20Adams%20&#38;%20The%20Cardinals/Jacksonville%20City%20Nights/04%20Dear%20John.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2285</key>
+			<dict>
+				<key>Track ID</key><integer>2285</integer>
+				<key>Name</key><string>The End</string>
+				<key>Artist</key><string>Ryan Adams</string>
+				<key>Album Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Composer</key><string>Michael Panes</string>
+				<key>Album</key><string>Jacksonville City Nights</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>7832640</integer>
+				<key>Total Time</key><integer>222786</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>2</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>76</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:07Z</date>
+				<key>Date Added</key><date>2013-01-10T02:01:10Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>2</integer>
+				<key>Sort Album</key><string>Jacksonville City Nights</string>
+				<key>Sort Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Sort Name</key><string>End</string>
+				<key>Persistent ID</key><string>F4FCCD2DDA7550DA</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Ryan%20Adams%20&#38;%20The%20Cardinals/Jacksonville%20City%20Nights/02%20The%20End.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2287</key>
+			<dict>
+				<key>Track ID</key><integer>2287</integer>
+				<key>Name</key><string>Rollercoaster</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2843560</integer>
+				<key>Total Time</key><integer>168645</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>10</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:40Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:43Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>4</integer>
+				<key>Play Date</key><integer>3455010704</integer>
+				<key>Play Date UTC</key><date>2013-06-25T20:11:44Z</date>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-01-14T15:32:37Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Rollercoaster</string>
+				<key>Persistent ID</key><string>4120DD0EA4F8A650</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/10%20Rollercoaster.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2289</key>
+			<dict>
+				<key>Track ID</key><integer>2289</integer>
+				<key>Name</key><string>Hard Way to Fall</string>
+				<key>Artist</key><string>Ryan Adams</string>
+				<key>Album Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Composer</key><string>Brad Pemberton, Catherine Popper, J.P. Bowersock &#38; Jon Graboff</string>
+				<key>Album</key><string>Jacksonville City Nights</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8509520</integer>
+				<key>Total Time</key><integer>244373</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>3</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>122</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:08Z</date>
+				<key>Date Added</key><date>2013-01-10T02:01:11Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>2</integer>
+				<key>Sort Album</key><string>Jacksonville City Nights</string>
+				<key>Sort Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Sort Name</key><string>Hard Way to Fall</string>
+				<key>Persistent ID</key><string>D7AD40CA4E4456F2</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Ryan%20Adams%20&#38;%20The%20Cardinals/Jacksonville%20City%20Nights/03%20Hard%20Way%20to%20Fall.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2291</key>
+			<dict>
+				<key>Track ID</key><integer>2291</integer>
+				<key>Name</key><string>No More Shoes</string>
+				<key>Artist</key><string>Stephen Malkmus</string>
+				<key>Album Artist</key><string>Stephen Malkmus</string>
+				<key>Album</key><string>Face the Truth</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>8290454</integer>
+				<key>Total Time</key><integer>480512</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>6</integer>
+				<key>Track Count</key><integer>11</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:15Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:15Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Skip Count</key><integer>1</integer>
+				<key>Skip Date</key><date>2013-02-21T15:16:37Z</date>
+				<key>Release Date</key><date>2005-05-24T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Face the Truth</string>
+				<key>Sort Artist</key><string>Stephen Malkmus</string>
+				<key>Sort Name</key><string>No More Shoes</string>
+				<key>Persistent ID</key><string>93AD4EC6D1AD6CD6</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Stephen%20Malkmus/Face%20the%20Truth/06%20No%20More%20Shoes.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2293</key>
+			<dict>
+				<key>Track ID</key><integer>2293</integer>
+				<key>Name</key><string>Today's Undertaking</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>2337438</integer>
+				<key>Total Time</key><integer>146725</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>11</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:40Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:44Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>3</integer>
+				<key>Play Date</key><integer>3455015895</integer>
+				<key>Play Date UTC</key><date>2013-06-25T21:38:15Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Today's Undertaking</string>
+				<key>Persistent ID</key><string>26EA3DF3F07290DA</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/11%20Today's%20Undertaking.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2295</key>
+			<dict>
+				<key>Track ID</key><integer>2295</integer>
+				<key>Name</key><string>Dear Sons and Daughters of Hungry Ghosts</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3549221</integer>
+				<key>Total Time</key><integer>219543</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>8</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:51Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>Dear Sons and Daughters of Hungry Ghosts</string>
+				<key>Persistent ID</key><string>C99DCFEE73613E02</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/08%20Dear%20Sons%20and%20Daughters%20of%20Hungry%20Ghosts.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2297</key>
+			<dict>
+				<key>Track ID</key><integer>2297</integer>
+				<key>Name</key><string>Dinner Bells</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>7533100</integer>
+				<key>Total Time</key><integer>454598</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>11</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:51Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>Dinner Bells</string>
+				<key>Persistent ID</key><string>F07F53E3EAD22773</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/11%20Dinner%20Bells.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2299</key>
+			<dict>
+				<key>Track ID</key><integer>2299</integer>
+				<key>Name</key><string>A Kiss Before I Go</string>
+				<key>Artist</key><string>Ryan Adams</string>
+				<key>Album Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Composer</key><string>Brad Pemberton, Catherine Popper, J.P. Bowersock &#38; Jon Graboff</string>
+				<key>Album</key><string>Jacksonville City Nights</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Rock</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4593704</integer>
+				<key>Total Time</key><integer>124720</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>1</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>BPM</key><integer>118</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:07Z</date>
+				<key>Date Added</key><date>2013-01-10T02:01:10Z</date>
+				<key>Bit Rate</key><integer>256</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>2</integer>
+				<key>Sort Album</key><string>Jacksonville City Nights</string>
+				<key>Sort Artist</key><string>Ryan Adams &#38; The Cardinals</string>
+				<key>Sort Name</key><string>Kiss Before I Go</string>
+				<key>Persistent ID</key><string>2F5A2592F7683B34</string>
+				<key>Track Type</key><string>File</string>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Ryan%20Adams%20&#38;%20The%20Cardinals/Jacksonville%20City%20Nights/01%20A%20Kiss%20Before%20I%20Go.m4a</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2301</key>
+			<dict>
+				<key>Track ID</key><integer>2301</integer>
+				<key>Name</key><string>It's a Curse</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3309436</integer>
+				<key>Total Time</key><integer>192166</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>10</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:51Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>It's a Curse</string>
+				<key>Persistent ID</key><string>7FF4C3A40F4F9F90</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/10%20It's%20a%20Curse.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2303</key>
+			<dict>
+				<key>Track ID</key><integer>2303</integer>
+				<key>Name</key><string>Afterword / Rag</string>
+				<key>Artist</key><string>M. Ward</string>
+				<key>Album Artist</key><string>M. Ward</string>
+				<key>Album</key><string>Post-War</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>3581706</integer>
+				<key>Total Time</key><integer>212019</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>12</integer>
+				<key>Track Count</key><integer>12</integer>
+				<key>Year</key><integer>2006</integer>
+				<key>Date Modified</key><date>2013-04-13T18:08:40Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:44Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Play Count</key><integer>1</integer>
+				<key>Play Date</key><integer>3444657583</integer>
+				<key>Play Date UTC</key><date>2013-02-26T00:19:43Z</date>
+				<key>Release Date</key><date>2006-08-22T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Post-War</string>
+				<key>Sort Artist</key><string>M. Ward</string>
+				<key>Sort Name</key><string>Afterword / Rag</string>
+				<key>Persistent ID</key><string>6393A0090B03A9F7</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/M.%20Ward/Post-War/12%20Afterword%20_%20Rag.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+			<key>2305</key>
+			<dict>
+				<key>Track ID</key><integer>2305</integer>
+				<key>Name</key><string>I'll Believe In Anything</string>
+				<key>Artist</key><string>Wolf Parade</string>
+				<key>Album Artist</key><string>Wolf Parade</string>
+				<key>Album</key><string>Apologies to the Queen Mary</string>
+				<key>Grouping</key><string>Full Album</string>
+				<key>Genre</key><string>Alternative</string>
+				<key>Kind</key><string>Purchased AAC audio file</string>
+				<key>Size</key><integer>4712296</integer>
+				<key>Total Time</key><integer>276571</integer>
+				<key>Disc Number</key><integer>1</integer>
+				<key>Disc Count</key><integer>1</integer>
+				<key>Track Number</key><integer>9</integer>
+				<key>Track Count</key><integer>14</integer>
+				<key>Year</key><integer>2005</integer>
+				<key>Date Modified</key><date>2013-04-13T18:07:51Z</date>
+				<key>Date Added</key><date>2013-01-10T02:11:07Z</date>
+				<key>Bit Rate</key><integer>128</integer>
+				<key>Sample Rate</key><integer>44100</integer>
+				<key>Release Date</key><date>2005-09-27T07:00:00Z</date>
+				<key>Artwork Count</key><integer>1</integer>
+				<key>Sort Album</key><string>Apologies to the Queen Mary</string>
+				<key>Sort Artist</key><string>Wolf Parade</string>
+				<key>Sort Name</key><string>I'll Believe In Anything</string>
+				<key>Persistent ID</key><string>53A3E187AB45F7BE</string>
+				<key>Track Type</key><string>File</string>
+				<key>Protected</key><true/>
+				<key>Purchased</key><true/>
+				<key>Location</key><string>file://localhost/Volumes/Machiavelli/Music/iTunes/iTunes%20Music/Music/Wolf%20Parade/Apologies%20to%20the%20Queen%20Mary/09%20I'll%20Believe%20In%20Anything.m4p</string>
+				<key>File Folder Count</key><integer>5</integer>
+				<key>Library Folder Count</key><integer>1</integer>
+			</dict>
+		</dict>
+	</dict>
+</plist>
